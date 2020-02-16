@@ -1,0 +1,503 @@
+Number of training: 3000
+Number of validation: 10000
+Number of testing: 10000
+Epoch 0 training complete
+[training loss]: 3.070902591459618
+[training accuracy]: 1463 / 3000
+[Validation loss]: 3.0749155852758006
+[Validation accuracy]: 4770 / 10000
+Epoch 1 training complete
+[training loss]: 2.786331435832993
+[training accuracy]: 1809 / 3000
+[Validation loss]: 2.793922947817731
+[Validation accuracy]: 5959 / 10000
+Epoch 2 training complete
+[training loss]: 2.440443992786438
+[training accuracy]: 1931 / 3000
+[Validation loss]: 2.4520575332715553
+[Validation accuracy]: 6384 / 10000
+Epoch 3 training complete
+[training loss]: 2.2728163740622986
+[training accuracy]: 1999 / 3000
+[Validation loss]: 2.286026742904265
+[Validation accuracy]: 6642 / 10000
+Epoch 4 training complete
+[training loss]: 2.0795385347091466
+[training accuracy]: 2061 / 3000
+[Validation loss]: 2.0959155087106147
+[Validation accuracy]: 6866 / 10000
+Epoch 5 training complete
+[training loss]: 1.8448130211554783
+[training accuracy]: 2184 / 3000
+[Validation loss]: 1.8645501230267025
+[Validation accuracy]: 7333 / 10000
+Epoch 6 training complete
+[training loss]: 1.6858408972213805
+[training accuracy]: 2283 / 3000
+[Validation loss]: 1.709241263100973
+[Validation accuracy]: 7651 / 10000
+Epoch 7 training complete
+[training loss]: 1.5973272118529818
+[training accuracy]: 2359 / 3000
+[Validation loss]: 1.6241151439789936
+[Validation accuracy]: 7857 / 10000
+Epoch 8 training complete
+[training loss]: 1.5246811963900897
+[training accuracy]: 2368 / 3000
+[Validation loss]: 1.5529521400374857
+[Validation accuracy]: 7863 / 10000
+Epoch 9 training complete
+[training loss]: 1.4322027081360813
+[training accuracy]: 2457 / 3000
+[Validation loss]: 1.463833979643085
+[Validation accuracy]: 8138 / 10000
+Epoch 10 training complete
+[training loss]: 1.3718316907220256
+[training accuracy]: 2491 / 3000
+[Validation loss]: 1.4066747028903475
+[Validation accuracy]: 8214 / 10000
+Epoch 11 training complete
+[training loss]: 1.2824351373470686
+[training accuracy]: 2552 / 3000
+[Validation loss]: 1.320900115823364
+[Validation accuracy]: 8439 / 10000
+Epoch 12 training complete
+[training loss]: 1.2321927538581057
+[training accuracy]: 2585 / 3000
+[Validation loss]: 1.273434086411057
+[Validation accuracy]: 8554 / 10000
+Epoch 13 training complete
+[training loss]: 1.1925205492273065
+[training accuracy]: 2587 / 3000
+[Validation loss]: 1.2376307316220223
+[Validation accuracy]: 8490 / 10000
+Epoch 14 training complete
+[training loss]: 1.135346454881505
+[training accuracy]: 2627 / 3000
+[Validation loss]: 1.1833584904711412
+[Validation accuracy]: 8647 / 10000
+Epoch 15 training complete
+[training loss]: 1.0700125249709724
+[training accuracy]: 2648 / 3000
+[Validation loss]: 1.1249610767431388
+[Validation accuracy]: 8704 / 10000
+Epoch 16 training complete
+[training loss]: 1.0387473309146475
+[training accuracy]: 2652 / 3000
+[Validation loss]: 1.0975896633579338
+[Validation accuracy]: 8717 / 10000
+Epoch 17 training complete
+[training loss]: 1.0005924847375107
+[training accuracy]: 2687 / 3000
+[Validation loss]: 1.06185649193122
+[Validation accuracy]: 8800 / 10000
+Epoch 18 training complete
+[training loss]: 0.9692316958614863
+[training accuracy]: 2678 / 3000
+[Validation loss]: 1.0348978350160976
+[Validation accuracy]: 8796 / 10000
+Epoch 19 training complete
+[training loss]: 0.9222796441421395
+[training accuracy]: 2697 / 3000
+[Validation loss]: 0.9928436203063516
+[Validation accuracy]: 8852 / 10000
+Epoch 20 training complete
+[training loss]: 0.893666504653728
+[training accuracy]: 2698 / 3000
+[Validation loss]: 0.9688880671962652
+[Validation accuracy]: 8850 / 10000
+Epoch 21 training complete
+[training loss]: 0.8612804833680129
+[training accuracy]: 2711 / 3000
+[Validation loss]: 0.9397631127204836
+[Validation accuracy]: 8889 / 10000
+Epoch 22 training complete
+[training loss]: 0.8327450399714892
+[training accuracy]: 2718 / 3000
+[Validation loss]: 0.9156125641773956
+[Validation accuracy]: 8904 / 10000
+Epoch 23 training complete
+[training loss]: 0.815163880939731
+[training accuracy]: 2717 / 3000
+[Validation loss]: 0.9020739254584695
+[Validation accuracy]: 8904 / 10000
+Epoch 24 training complete
+[training loss]: 0.8007569330427107
+[training accuracy]: 2738 / 3000
+[Validation loss]: 0.8900879351652127
+[Validation accuracy]: 8913 / 10000
+Epoch 25 training complete
+[training loss]: 0.770130375007792
+[training accuracy]: 2741 / 3000
+[Validation loss]: 0.8661264251996635
+[Validation accuracy]: 8928 / 10000
+Epoch 26 training complete
+[training loss]: 0.7548882827833774
+[training accuracy]: 2735 / 3000
+[Validation loss]: 0.853351671098987
+[Validation accuracy]: 8922 / 10000
+Epoch 27 training complete
+[training loss]: 0.7369309110413038
+[training accuracy]: 2745 / 3000
+[Validation loss]: 0.8391966555474617
+[Validation accuracy]: 8938 / 10000
+Epoch 28 training complete
+[training loss]: 0.7255089697436086
+[training accuracy]: 2741 / 3000
+[Validation loss]: 0.829630981554217
+[Validation accuracy]: 8945 / 10000
+Epoch 29 training complete
+[training loss]: 0.7026342685962138
+[training accuracy]: 2754 / 3000
+[Validation loss]: 0.8107980172947094
+[Validation accuracy]: 8953 / 10000
+Epoch 30 training complete
+[training loss]: 0.6965145623872947
+[training accuracy]: 2753 / 3000
+[Validation loss]: 0.8067402178556572
+[Validation accuracy]: 8955 / 10000
+Epoch 31 training complete
+[training loss]: 0.680227163457553
+[training accuracy]: 2764 / 3000
+[Validation loss]: 0.7940772378097398
+[Validation accuracy]: 8969 / 10000
+Epoch 32 training complete
+[training loss]: 0.6695745031362904
+[training accuracy]: 2766 / 3000
+[Validation loss]: 0.786127376293634
+[Validation accuracy]: 8979 / 10000
+Epoch 33 training complete
+[training loss]: 0.6522521291171404
+[training accuracy]: 2764 / 3000
+[Validation loss]: 0.7742892385511971
+[Validation accuracy]: 8973 / 10000
+Epoch 34 training complete
+[training loss]: 0.6411828775313017
+[training accuracy]: 2767 / 3000
+[Validation loss]: 0.7673554621968353
+[Validation accuracy]: 8964 / 10000
+Epoch 35 training complete
+[training loss]: 0.6300988178480289
+[training accuracy]: 2770 / 3000
+[Validation loss]: 0.758474771158473
+[Validation accuracy]: 8986 / 10000
+Epoch 36 training complete
+[training loss]: 0.6224786203338486
+[training accuracy]: 2770 / 3000
+[Validation loss]: 0.7523614702129122
+[Validation accuracy]: 8983 / 10000
+Epoch 37 training complete
+[training loss]: 0.6092538861824025
+[training accuracy]: 2779 / 3000
+[Validation loss]: 0.7443266528823963
+[Validation accuracy]: 8993 / 10000
+Epoch 38 training complete
+[training loss]: 0.5995050889822949
+[training accuracy]: 2778 / 3000
+[Validation loss]: 0.738356218817374
+[Validation accuracy]: 8985 / 10000
+Epoch 39 training complete
+[training loss]: 0.5847119201132537
+[training accuracy]: 2790 / 3000
+[Validation loss]: 0.7268829941234519
+[Validation accuracy]: 9002 / 10000
+Epoch 40 training complete
+[training loss]: 0.5799180159269333
+[training accuracy]: 2787 / 3000
+[Validation loss]: 0.7255702556082393
+[Validation accuracy]: 8996 / 10000
+Epoch 41 training complete
+[training loss]: 0.5647160164415035
+[training accuracy]: 2790 / 3000
+[Validation loss]: 0.7135334371707758
+[Validation accuracy]: 9017 / 10000
+Epoch 42 training complete
+[training loss]: 0.5578831944741414
+[training accuracy]: 2796 / 3000
+[Validation loss]: 0.7081743015515725
+[Validation accuracy]: 9020 / 10000
+Epoch 43 training complete
+[training loss]: 0.5529722990139606
+[training accuracy]: 2799 / 3000
+[Validation loss]: 0.7079918725509882
+[Validation accuracy]: 9006 / 10000
+Epoch 44 training complete
+[training loss]: 0.5431975499120378
+[training accuracy]: 2801 / 3000
+[Validation loss]: 0.7010292189163719
+[Validation accuracy]: 9023 / 10000
+Epoch 45 training complete
+[training loss]: 0.5317612182972374
+[training accuracy]: 2804 / 3000
+[Validation loss]: 0.6935906526426355
+[Validation accuracy]: 9025 / 10000
+Epoch 46 training complete
+[training loss]: 0.5265914100528724
+[training accuracy]: 2808 / 3000
+[Validation loss]: 0.6896696857454715
+[Validation accuracy]: 9029 / 10000
+Epoch 47 training complete
+[training loss]: 0.5208699673612363
+[training accuracy]: 2808 / 3000
+[Validation loss]: 0.6871611330456273
+[Validation accuracy]: 9032 / 10000
+Epoch 48 training complete
+[training loss]: 0.5107629722588112
+[training accuracy]: 2814 / 3000
+[Validation loss]: 0.6815051793721145
+[Validation accuracy]: 9036 / 10000
+Epoch 49 training complete
+[training loss]: 0.5051957717745559
+[training accuracy]: 2823 / 3000
+[Validation loss]: 0.6776354300573321
+[Validation accuracy]: 9040 / 10000
+Epoch 50 training complete
+[training loss]: 0.4965647904422334
+[training accuracy]: 2820 / 3000
+[Validation loss]: 0.672995955730175
+[Validation accuracy]: 9035 / 10000
+Epoch 51 training complete
+[training loss]: 0.49241494218186416
+[training accuracy]: 2827 / 3000
+[Validation loss]: 0.6715670598493438
+[Validation accuracy]: 9034 / 10000
+Epoch 52 training complete
+[training loss]: 0.49102163814183036
+[training accuracy]: 2824 / 3000
+[Validation loss]: 0.6734110731418737
+[Validation accuracy]: 9031 / 10000
+Epoch 53 training complete
+[training loss]: 0.4828720027388501
+[training accuracy]: 2833 / 3000
+[Validation loss]: 0.6670562103067704
+[Validation accuracy]: 9036 / 10000
+Epoch 54 training complete
+[training loss]: 0.4716380801997363
+[training accuracy]: 2832 / 3000
+[Validation loss]: 0.659708417866124
+[Validation accuracy]: 9045 / 10000
+Epoch 55 training complete
+[training loss]: 0.4637098134109804
+[training accuracy]: 2844 / 3000
+[Validation loss]: 0.6551318617440873
+[Validation accuracy]: 9057 / 10000
+Epoch 56 training complete
+[training loss]: 0.45986463251331
+[training accuracy]: 2840 / 3000
+[Validation loss]: 0.6536105855703018
+[Validation accuracy]: 9051 / 10000
+Epoch 57 training complete
+[training loss]: 0.4555848568090982
+[training accuracy]: 2842 / 3000
+[Validation loss]: 0.6527062619680196
+[Validation accuracy]: 9051 / 10000
+Epoch 58 training complete
+[training loss]: 0.452655659503829
+[training accuracy]: 2842 / 3000
+[Validation loss]: 0.6513415830111886
+[Validation accuracy]: 9044 / 10000
+Epoch 59 training complete
+[training loss]: 0.4450727861301098
+[training accuracy]: 2844 / 3000
+[Validation loss]: 0.6467265542490961
+[Validation accuracy]: 9055 / 10000
+Epoch 60 training complete
+[training loss]: 0.4397305904038255
+[training accuracy]: 2849 / 3000
+[Validation loss]: 0.643648984283331
+[Validation accuracy]: 9049 / 10000
+Epoch 61 training complete
+[training loss]: 0.43364149578336764
+[training accuracy]: 2850 / 3000
+[Validation loss]: 0.6392875190589452
+[Validation accuracy]: 9064 / 10000
+Epoch 62 training complete
+[training loss]: 0.42957097346886575
+[training accuracy]: 2854 / 3000
+[Validation loss]: 0.6385135786921512
+[Validation accuracy]: 9060 / 10000
+Epoch 63 training complete
+[training loss]: 0.4270221208343411
+[training accuracy]: 2855 / 3000
+[Validation loss]: 0.6379215334448001
+[Validation accuracy]: 9058 / 10000
+Epoch 64 training complete
+[training loss]: 0.4227668213511812
+[training accuracy]: 2854 / 3000
+[Validation loss]: 0.6370002800125693
+[Validation accuracy]: 9055 / 10000
+Epoch 65 training complete
+[training loss]: 0.41838323316754245
+[training accuracy]: 2860 / 3000
+[Validation loss]: 0.6340182061383025
+[Validation accuracy]: 9058 / 10000
+Epoch 66 training complete
+[training loss]: 0.4165396581223859
+[training accuracy]: 2857 / 3000
+[Validation loss]: 0.633829004757601
+[Validation accuracy]: 9056 / 10000
+Epoch 67 training complete
+[training loss]: 0.41148501327217213
+[training accuracy]: 2857 / 3000
+[Validation loss]: 0.6320925019581994
+[Validation accuracy]: 9058 / 10000
+Epoch 68 training complete
+[training loss]: 0.4073251619864352
+[training accuracy]: 2860 / 3000
+[Validation loss]: 0.6299133613825669
+[Validation accuracy]: 9067 / 10000
+Epoch 69 training complete
+[training loss]: 0.401216334312863
+[training accuracy]: 2865 / 3000
+[Validation loss]: 0.6287157776881016
+[Validation accuracy]: 9056 / 10000
+Epoch 70 training complete
+[training loss]: 0.3938663863022184
+[training accuracy]: 2864 / 3000
+[Validation loss]: 0.6242022229717632
+[Validation accuracy]: 9066 / 10000
+Epoch 71 training complete
+[training loss]: 0.392904070625307
+[training accuracy]: 2867 / 3000
+[Validation loss]: 0.6250135817704733
+[Validation accuracy]: 9060 / 10000
+Epoch 72 training complete
+[training loss]: 0.38930624338622644
+[training accuracy]: 2868 / 3000
+[Validation loss]: 0.6230460032079299
+[Validation accuracy]: 9066 / 10000
+Epoch 73 training complete
+[training loss]: 0.38664206825772224
+[training accuracy]: 2871 / 3000
+[Validation loss]: 0.6231189030592227
+[Validation accuracy]: 9067 / 10000
+Epoch 74 training complete
+[training loss]: 0.3828402310739555
+[training accuracy]: 2868 / 3000
+[Validation loss]: 0.6207527943201901
+[Validation accuracy]: 9064 / 10000
+Epoch 75 training complete
+[training loss]: 0.37884802751939484
+[training accuracy]: 2869 / 3000
+[Validation loss]: 0.6186058664405255
+[Validation accuracy]: 9065 / 10000
+Epoch 76 training complete
+[training loss]: 0.3785560244557617
+[training accuracy]: 2868 / 3000
+[Validation loss]: 0.6215790593431713
+[Validation accuracy]: 9057 / 10000
+Epoch 77 training complete
+[training loss]: 0.3755582983596662
+[training accuracy]: 2873 / 3000
+[Validation loss]: 0.6185730464371696
+[Validation accuracy]: 9058 / 10000
+Epoch 78 training complete
+[training loss]: 0.37240470539830234
+[training accuracy]: 2871 / 3000
+[Validation loss]: 0.6182102761748997
+[Validation accuracy]: 9057 / 10000
+Epoch 79 training complete
+[training loss]: 0.3712868903328713
+[training accuracy]: 2873 / 3000
+[Validation loss]: 0.6178304949577951
+[Validation accuracy]: 9061 / 10000
+Epoch 80 training complete
+[training loss]: 0.36984214396537224
+[training accuracy]: 2872 / 3000
+[Validation loss]: 0.6187367144345647
+[Validation accuracy]: 9059 / 10000
+Epoch 81 training complete
+[training loss]: 0.3677764991130933
+[training accuracy]: 2877 / 3000
+[Validation loss]: 0.6182452900274803
+[Validation accuracy]: 9064 / 10000
+Epoch 82 training complete
+[training loss]: 0.3652515852737546
+[training accuracy]: 2873 / 3000
+[Validation loss]: 0.6166283075786068
+[Validation accuracy]: 9065 / 10000
+Epoch 83 training complete
+[training loss]: 0.36093686031017896
+[training accuracy]: 2881 / 3000
+[Validation loss]: 0.6132196981904025
+[Validation accuracy]: 9065 / 10000
+Epoch 84 training complete
+[training loss]: 0.3581956248357068
+[training accuracy]: 2881 / 3000
+[Validation loss]: 0.6112813859258923
+[Validation accuracy]: 9068 / 10000
+Epoch 85 training complete
+[training loss]: 0.3575412682461589
+[training accuracy]: 2878 / 3000
+[Validation loss]: 0.6136003769227022
+[Validation accuracy]: 9070 / 10000
+Epoch 86 training complete
+[training loss]: 0.3547102247280202
+[training accuracy]: 2881 / 3000
+[Validation loss]: 0.6123251164799641
+[Validation accuracy]: 9073 / 10000
+Epoch 87 training complete
+[training loss]: 0.3529645874137146
+[training accuracy]: 2879 / 3000
+[Validation loss]: 0.6137932204078691
+[Validation accuracy]: 9063 / 10000
+Epoch 88 training complete
+[training loss]: 0.3486963634461309
+[training accuracy]: 2886 / 3000
+[Validation loss]: 0.6102442364031487
+[Validation accuracy]: 9069 / 10000
+Epoch 89 training complete
+[training loss]: 0.34530644688457046
+[training accuracy]: 2887 / 3000
+[Validation loss]: 0.6090577854622935
+[Validation accuracy]: 9083 / 10000
+Epoch 90 training complete
+[training loss]: 0.3415522970727884
+[training accuracy]: 2892 / 3000
+[Validation loss]: 0.6071768912796002
+[Validation accuracy]: 9068 / 10000
+Epoch 91 training complete
+[training loss]: 0.33971289229538115
+[training accuracy]: 2889 / 3000
+[Validation loss]: 0.6084688358876332
+[Validation accuracy]: 9078 / 10000
+Epoch 92 training complete
+[training loss]: 0.33607733485929886
+[training accuracy]: 2893 / 3000
+[Validation loss]: 0.6042649976520525
+[Validation accuracy]: 9079 / 10000
+Epoch 93 training complete
+[training loss]: 0.3344945559033104
+[training accuracy]: 2889 / 3000
+[Validation loss]: 0.6057530205760614
+[Validation accuracy]: 9080 / 10000
+Epoch 94 training complete
+[training loss]: 0.3332512974796321
+[training accuracy]: 2892 / 3000
+[Validation loss]: 0.6078330336189969
+[Validation accuracy]: 9080 / 10000
+Epoch 95 training complete
+[training loss]: 0.33092729244116464
+[training accuracy]: 2896 / 3000
+[Validation loss]: 0.6057727748845068
+[Validation accuracy]: 9077 / 10000
+Epoch 96 training complete
+[training loss]: 0.32851436722374094
+[training accuracy]: 2893 / 3000
+[Validation loss]: 0.6048144863885871
+[Validation accuracy]: 9081 / 10000
+Epoch 97 training complete
+[training loss]: 0.32579097962058423
+[training accuracy]: 2895 / 3000
+[Validation loss]: 0.6030572270547154
+[Validation accuracy]: 9072 / 10000
+Epoch 98 training complete
+[training loss]: 0.32367605826888185
+[training accuracy]: 2895 / 3000
+[Validation loss]: 0.604686103262905
+[Validation accuracy]: 9081 / 10000
+Epoch 99 training complete
+[training loss]: 0.3215875343748053
+[training accuracy]: 2895 / 3000
+[Validation loss]: 0.6041427000472227
+[Validation accuracy]: 9073 / 10000
